@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnDockerized", "UnDockerized\UnDockerized.csproj", "{2249D74A-788D-4721-B3D3-834349994BB3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2249D74A-788D-4721-B3D3-834349994BB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2249D74A-788D-4721-B3D3-834349994BB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2249D74A-788D-4721-B3D3-834349994BB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2249D74A-788D-4721-B3D3-834349994BB3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D2FF60A5-6B06-4763-8041-800E3594BD13}
+	EndGlobalSection
+EndGlobal

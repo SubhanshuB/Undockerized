@@ -1,0 +1,10 @@
+C:\Users\Subhanshu\source\repos\UnDockerized\UnDockerized\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Subhanshu\source\repos\UnDockerized\UnDockerized\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Subhanshu\source\repos\UnDockerized\UnDockerized\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Subhanshu\source\repos\UnDockerized\UnDockerized\bin\Debug\netcoreapp3.1\UnDockerized.exe
+C:\Users\Subhanshu\source\repos\UnDockerized\UnDockerized\obj\Debug\netcoreapp3.1\UnDockerized.csprojAssemblyReference.cache
+C:\Users\Subhanshu\source\repos\UnDockerized\UnDockerized\obj\Debug\netcoreapp3.1\UnDockerized.AssemblyInfoInputs.cache
+C:\Users\Subhanshu\source\repos\UnDockerized\UnDockerized\obj\Debug\netcoreapp3.1\UnDockerized.AssemblyInfo.cs
+C:\Users\Subhanshu\source\repos\UnDockerized\UnDockerized\obj\Debug\netcoreapp3.1\UnDockerized.RazorTargetAssemblyInfo.cache
+C:\Users\Subhanshu\source\repos\UnDockerized\UnDockerized\obj\Debug\netcoreapp3.1\staticwebassets\UnDockerized.StaticWebAssets.Manifest.cache
+C:\Users\Subhanshu\source\repos\UnDockerized\UnDockerized\obj\Debug\netcoreapp3.1\staticwebassets\UnDockerized.StaticWebAssets.xml

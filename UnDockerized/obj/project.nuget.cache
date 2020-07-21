@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GKI+wHhpp9qbIFYfGi5SsMd22UNPZ9IZYCdQ7wlV1rblJDh1gAYA2e3DDbycPkKWnaATFW6qWYKXJZPjYm1MEQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Subhanshu\\source\\repos\\UnDockerized\\UnDockerized\\UnDockerized.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Subhanshu\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}
